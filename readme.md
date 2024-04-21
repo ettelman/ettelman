@@ -3,7 +3,7 @@
 ## About Me
 
 
--  I'm a webdevolper and IT-security junior
+-  I'm a webdeveloper and IT-security junior
 -  I’m currently working as Teacher in IT-security
 -  I’m currently learning Ruby on rails
 
