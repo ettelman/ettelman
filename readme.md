@@ -8,6 +8,6 @@
 -  I’m currently learning Ruby on rails
 
 -  How to reach me: [bettelman[at]gmail.com]
--  Specalized in web-security
+-  Specialized in web-security
 -  Mostly using node/vue/react/next.js
 
