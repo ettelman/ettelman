@@ -1,13 +1,15 @@
-# Hello, I'm Björn Ettelman
+# 👋 Hello, I'm Björn Ettelman
 
-## About Me
+## 🧠 About Me
 
+- 👨‍💻 Web Developer with a focus on **IT Security**
+- 🎓 Currently working as an **IT Security Teacher**
+- 📂 Feel free to use my projects for **educational purposes**
+- 📬 Reach me at: `bettelman[at]gmail.com`
+- 🧑‍💻 Passionate about ethical hacking and offensive security
 
--  I'm a webdeveloper specialized in IT-security 
--  I’m currently working as Teacher in IT-security
--  I’m currently learning Ruby (on rails)
+## 🛠 Tech Stack
 
--  How to reach me: [bettelman[at]gmail.com]
--  Expert webhacker :)
--  Mostly using node/vue/react/next.js
-
+- **Languages:** JavaScript (Node.js), PHP, Ruby, Python  
+- **Frontend:** Vue.js  
+- **Backend:** Express, Laravel, Rails  
