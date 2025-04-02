@@ -12,4 +12,4 @@
 
 - **Languages:** JavaScript (Node.js), PHP, Ruby, Python  
 - **Frontend:** Vue.js  
-- **Backend:** Express, Laravel, Rails  
+- **Backend/Fullstack:** Express, Laravel, Rails  
